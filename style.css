@@ -1,0 +1,26 @@
+main {
+	font-size: 17px;
+}
+
+b {
+	color: green;
+}
+
+b:nth-child(119) {
+	color: red;
+}
+
+.zero {
+	color: red;
+}
+
+.eagle-lake-regular, section {
+  font-family: "Eagle Lake", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+section {
+	margin: 0 auto;
+	width: 950px;
+}
